@@ -6,6 +6,14 @@ I'm Delaskar Caicedo, a software developer who is constantly searching for new o
 
 I'm a persistent person who never gives up in the face of obstacles. I like to see the positive side of situations and work in a team to achieve shared goals. I'm an empathetic listener and a loyal team player. If you're looking for someone who is passionate and committed to excellence, don't hesitate to contact me!
 
+#
+
+## Personal Projects:
+- <a href="https://github.com/delaskar/python_projects">Python Projects</a>
+- <a href="https://github.com/delaskar/building_small_rust_projects">Building Small Rust Projects</a>
+- <a href="https://github.com/delaskar/Lets-talk-about-Docker">Let's talk about Docker</a>
+
+
 ## Some Skills:
   
 <div style="display: inline block"><br>
