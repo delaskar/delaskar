@@ -2,9 +2,11 @@
 ## **Software Development**
 ![Software Development](https://pbs.twimg.com/profile_banners/1634900716883001345/1682798100/1500x500)
 
-I'm Delaskar Caicedo, a software developer who is constantly searching for new opportunities to learn and grow, both through professional collaborations and personal projects. I'm passionate about the world of technology and enjoy discovering creative ways to solve problems. I'm willing to accept new challenges and seek innovative solutions.
+I'm Delaskar Caicedo, an aspiring ethical hacker, on a continuous journey to enhance my skills and knowledge in the field of cybersecurity. I'm a software developer with a keen interest in the ethical hacking world, always exploring fresh opportunities to learn and grow, be it through professional collaborations or personal projects.
 
-I'm a persistent person who never gives up in the face of obstacles. I like to see the positive side of situations and work in a team to achieve shared goals. I'm an empathetic listener and a loyal team player. If you're looking for someone who is passionate and committed to excellence, don't hesitate to contact me!
+My fascination with technology knows no bounds, and I revel in finding innovative and creative solutions to security challenges. With a resolute spirit, I never back down in the face of obstacles. I believe in embracing challenges and working collaboratively to achieve common objectives. As a passionate and dedicated team member, I'm an empathetic listener and a loyal contributor.
+
+If you're seeking someone who is fervently committed to excellence in the realm of ethical hacking, please feel free to get in touch with me. Together, we can explore the exciting world of cybersecurity and make a positive impact.
 
 #
 
