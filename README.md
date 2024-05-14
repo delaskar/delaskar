@@ -1,6 +1,5 @@
 ## Hi there 👋🏾, I'm Delaskar Caicedo
 ### **Hacking & Software**
-![Software Development](https://pbs.twimg.com/profile_banners/1634900716883001345/1682798100/1500x500)
 
 I'm Delaskar Caicedo, an aspiring ethical hacker, on a continuous journey to enhance my skills and knowledge in the field of cybersecurity. I'm a software developer with a keen interest in the ethical hacking world, always exploring fresh opportunities to learn and grow, be it through professional collaborations or personal projects.
 
