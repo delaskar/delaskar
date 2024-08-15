@@ -11,6 +11,7 @@ If you're seeking someone who is fervently committed to excellence in the realm 
 
 ## Personal Projects:
 - <a href="https://github.com/delaskar/python_projects">Python Projects</a>
+- <a href="https://github.com/delaskar/ssrf_port_scanner">SSRF Port Scanner Script</a>
 - <a href="https://github.com/delaskar/okay_verify_200">Subdomains Health</a>
 - <a href="https://github.com/delaskar/ARP_Spoofing_Tool">ARP Spoofing Tool</a>
 - <a href="https://github.com/delaskar/building_small_rust_projects">Building Small Rust Projects</a>
